@@ -29,9 +29,9 @@ A full-stack **Food Delivery Web Application** built using the **MERN stack** (M
 
 * React.js
 * React Router
-* Context API / Redux *(depending on what you used)*
+* Context API 
 * Axios
-* TailwindCSS / Bootstrap / Custom CSS
+* TailwindCSS 
 
 ### Backend:
 
